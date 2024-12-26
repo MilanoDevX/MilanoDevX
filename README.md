@@ -22,12 +22,12 @@ I'm a passionate Full Stack Developer constantly improving my skills in various 
 
 ## GitHub Stats
 
-![MilanoTester's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoTester&show_icons=true&theme=radical)
+![MilanoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoTester&show_icons=true&theme=radical)
 
 ## Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=your-repo-name&theme=radical)](https://github.com/MilanoTester/AndaFood)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=another-repo-name&theme=radical)](https://github.com/MilanoTester/Star-Wars-Blog-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=AndaFood&theme=radical)](https://github.com/MilanoTester/AndaFood)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=Star-Wars-Blog-React&theme=radical)](https://github.com/MilanoTester/Star-Wars-Blog-React)
 
 ## Connect with Me
 
