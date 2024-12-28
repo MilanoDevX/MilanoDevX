@@ -7,7 +7,7 @@
 I'm a passionate Full Stack Developer constantly improving my skills in various technologies. I enjoy building robust web applications and exploring new frameworks and tools.
 
 - 🔭 I’m currently working on my personal landing page/portfolio. 
-- 🌱 I’m currently improving my skills in **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
+- 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
 - 💬 Ask me about full stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
 - 📫 How to reach me: [Email](mailto:eliasmilano.tester@gmail.com)
