@@ -10,8 +10,8 @@ I'm a passionate Full Stack Developer constantly improving my skills in various 
 - 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
 - 💬 Ask me about full stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
-- 📫 How to reach me: [Email](mailto:eliasmilano.tester@gmail.com)
-- ⚡ Fun fact: I also use a rubber ducky to debug my code 😁
+- 📫 How to reach me: [Email](mailto:eliasmilano.dev@gmail.com)
+- ⚡ Fun fact: I use the rubber ducky technique to debug my code 😁
 
 ## Tech Stack
 
@@ -26,8 +26,8 @@ I'm a passionate Full Stack Developer constantly improving my skills in various 
 
 ## Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=AndaFood&theme=radical)](https://github.com/MilanoTester/AndaFood)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoTester&repo=Star-Wars-Blog-React&theme=radical)](https://github.com/MilanoTester/Star-Wars-Blog-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=AndaFood&theme=radical)](https://github.com/MilanoDevX/AndaFood)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Star-Wars-Blog-React&theme=radical)](https://github.com/MilanoDevX/Star-Wars-Blog-React)
 
 ## Connect with Me
 
