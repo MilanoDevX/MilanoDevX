@@ -1,6 +1,6 @@
 # Hi there, I am MilanoDevX! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MilanoTester&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MilanoDevX&color=blue)
 
 ## About Me
 
@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer constantly improving my skills in various 
 
 ## GitHub Stats
 
-![MilanoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoTester&show_icons=true&theme=radical)
+![MilanoDevX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoDevX&show_icons=true&theme=radical)
 
 ## Top Repositories
 
