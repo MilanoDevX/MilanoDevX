@@ -11,7 +11,7 @@ I am a passionate Full-Stack Developer who constantly improves my skills in vari
 - 💬 Ask me about full stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
 - 📫 How to reach me: [Email](mailto:eliasmilano.dev@gmail.com)
-- ⚡ Fun fact: I use the rubber ducky technique to debug my code 😁
+- ⚡ Fun fact: I really enjoy riding my bike on sunny days! 🚴‍♂️🚴‍♂️🚴‍♂️
 
 ## Tech Stack
 
