@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer constantly improving my skills in various technologies. I enjoy building robust web applications and exploring new frameworks and tools.
+I am a passionate Full-Stack Developer who constantly improves my skills in various technologies. I am very focused on creating impact by solving real-life problems through automation and digital tools. I enjoy building robust web applications and exploring new frameworks and tools.
 
 - 🔭 I’m currently working on my personal landing page/portfolio. 
 - 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
