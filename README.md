@@ -10,7 +10,7 @@ I am a passionate Full-Stack Developer who constantly improves my skills in vari
 - 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
 - 💬 Ask me about full stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
-- 📫 How to reach me: [Email](mailto:eliasmilano.dev@gmail.com)
+- 📫 How to reach me: eliasmilano.dev@gmail.com
 - ⚡ Fun fact: I really enjoy riding my bike on sunny days! 🚴‍♂️🚴‍♂️🚴‍♂️
 
 ## Tech Stack
