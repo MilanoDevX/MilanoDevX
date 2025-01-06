@@ -28,8 +28,6 @@ I am a passionate Full-Stack Developer who constantly improves my skills in vari
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=AndaFood&theme=radical)](https://github.com/MilanoDevX/AndaFood)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Star-Wars-Blog-React&theme=radical)](https://github.com/MilanoDevX/Star-Wars-Blog-React)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Team3-collaborative-html-website&theme=radical)](https://github.com/MilanoDevX/Team3-collaborative-html-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Matrix-TodoList-React&theme=radical)](https://github.com/MilanoDevX/Matrix-TodoList-React)
 
 ## Connect with Me
 
