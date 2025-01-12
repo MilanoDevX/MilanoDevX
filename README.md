@@ -8,10 +8,11 @@ Full-stack developer with a strong React, Flask, and relational databases backgr
 
 - 🔭 I’m currently working on my personal landing page/portfolio. 
 - 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
-- 💬 Ask me about full stack development, web technologies, and best practices.
+- 💬 We can discuss full-stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
+- 📄 Know about my professional experience: https://flowcv.com/resume/3silu3r2wm
 - 📫 How to reach me: eliasmilano.dev@gmail.com
-- ⚡ Fun fact: I really enjoy riding my bike on sunny days! 🚴‍♂️🚴‍♂️🚴‍♂️
+- ⚡ Fun fact: I really enjoy spending hours riding my bike on Sundays! 🚴‍♂️🚴‍♂️🚴‍♂️
 
 ## Tech Stack
 
