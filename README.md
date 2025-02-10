@@ -23,13 +23,7 @@ Full-stack developer with a strong React, Flask, and relational databases backgr
 
 ## GitHub Stats
 <!-- ![MilanoDevX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoDevX&show_icons=true&theme=radical) -->
-
-### Estadísticas del año 2024
-![MilanoDevX's GitHub stats for 2024](https://github-readme-stats.vercel.app/api?username=MilanoDevX&show_icons=true&theme=radical&year=2024)
-
-### Estadísticas del año 2025
-![MilanoDevX's GitHub stats for 2025](https://github-readme-stats.vercel.app/api?username=MilanoDevX&show_icons=true&theme=radical&year=2025)
-
+![MilanoDevX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanoDevX&show_icons=true&theme=radical&year=2025)
 
 ## Top Repositories
 
