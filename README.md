@@ -6,7 +6,7 @@
 
 Full-stack developer with a strong React, Flask, and relational databases background. I have experience developing scalable applications, implementing secure authentication, and deploying on cloud platforms. My focus on process optimization and automation demonstrated throughout my career, complements my passion for creating innovative and efficient solutions. I am committed to continuous learning and seek to apply my skills to contribute to the development of impactful projects. 
 
-- 🔭 I’m currently working on my personal landing page/portfolio. 
+- 🔭 I’m currently working on my personal landing page/portfolio and a web application to manage office rentals. 
 - 🌱 I’m currently improving my skills in **JavaScript**, **React**, **Python**, **Flask**, **SQL**, and **SQLAlchemy**.
 - 💬 We can discuss full-stack development, web technologies, and best practices.
 - 📚 My main hobbies are reading science fiction books and riding my bike.
