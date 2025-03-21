@@ -27,8 +27,9 @@ Full-stack developer with a strong React, Flask, and relational databases backgr
 
 ## Top Repositories
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Espacio-Novem&theme=radical)](https://github.com/MilanoDevX/Espacio-Novem)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=AndaFood&theme=radical)](https://github.com/MilanoDevX/AndaFood)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MilanoDevX&repo=Star-Wars-Blog-React&theme=radical)](https://github.com/MilanoDevX/Star-Wars-Blog-React)
+
 
 ## Connect with Me
 
